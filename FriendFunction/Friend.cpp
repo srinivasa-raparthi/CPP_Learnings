@@ -39,6 +39,7 @@ int main() {
 
     system("CLS");
 	cout << "Welcome to Consistent Learning" << endl;
+    cout<<"\nDiscipline and Persistence leads to success"<<endl;
 
     Base b1;
     Base b2(2,3);
